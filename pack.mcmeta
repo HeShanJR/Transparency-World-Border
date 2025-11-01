@@ -1,12 +1,11 @@
 {
   "pack": {
-    "description": "移除了§c烦人的§r§9边界§r效果！              §eBy§r B站§6@核善的俊瑞",
-    "min_formant": "[35,33]",
-    "max_formant": "[72,72]",
-    "pack_format": 33,
-    "supported_formats": {
-      "min_inclusive": 33,
-      "max_inclusive": 72
-    }
+    "min_format": [33, 0],
+    "max_format": [72, 0],
+    "pack_format": 34,
+    "min_inclusive": 34,
+    "max_inclusive": 72,
+    "description": "移除了§c烦人的§r§9边界§r效果！              §eBy§r B站§6@核善的俊瑞"
+
   }
 }
