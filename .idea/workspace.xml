@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4865eee-9c8e-4755-bda3-7fee3d44715c" name="更改" comment="添加了至25w44a的支持">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/pack.mcmeta" afterDir="false" />
+    <list default="true" id="b4865eee-9c8e-4755-bda3-7fee3d44715c" name="更改" comment="修复新版会识别为损坏的问题">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761825778601</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修复新版会识别为损坏的问题">
+      <option name="closed" value="true" />
+      <created>1761981469365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761981469365</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加了至25w44a的支持" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加了至25w44a的支持" />
+    <MESSAGE value="修复新版会识别为损坏的问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="修复新版会识别为损坏的问题" />
   </component>
 </project>
